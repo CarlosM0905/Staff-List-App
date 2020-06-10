@@ -1,6 +1,6 @@
 ## A simple Staff list
 
-####Requirements
+#### Requirements
 - NodeJS
 - MySQL
 - Default MySQL database 'sakila'
